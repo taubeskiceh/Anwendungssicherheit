@@ -70,4 +70,3 @@ Ziel: **Vertraulichkeit, Integrität und Verfügbarkeit** von Anwendungen gewäh
 - 🛡️ **Supply Chain Security**  
 - 📊 **Security Overview** für zentrale Verwaltung  
 
-👉 Alles integriert in den Dev-Workflow mit **GitHub Advanced Security**.
